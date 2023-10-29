@@ -10,3 +10,4 @@ Important steps for git workflow:
 6. Review previous changes with git log
 
 The possibilities are endless in this new realm that I'm entering
+What I will find is still unknown
